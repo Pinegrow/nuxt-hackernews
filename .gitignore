@@ -13,3 +13,11 @@ package-lock.json
 public/manifest*.json
 public/sw.js
 public/workbox-sw*.js*
+
+/*.d.ts
+  
+#Pinegrow
+_pgbackup
+_pginfo
+#optional
+pinegrow.json 

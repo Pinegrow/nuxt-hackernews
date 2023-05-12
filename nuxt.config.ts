@@ -1,10 +1,19 @@
 export default defineNuxtConfig({
+  modules: [
+    "@pinegrow/nuxt-module",
+    //...
+  ],
+  pinegrow: {
+    liveDesigner: {
+      // ...
+    },
+  },
   postcss: {
     plugins: {
-      'postcss-nesting': {}
-    }
+      "postcss-nesting": {},
+    },
   },
   devtools: {
-    enabled: true
-  }
-})
+    enabled: true,
+  },
+});

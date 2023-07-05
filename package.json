@@ -27,7 +27,7 @@
   "devDependencies": {
     "@nuxt/devtools": "^0.4.2",
     "@nuxt/eslint-config": "^0.1.1",
-    "@pinegrow/nuxt-module": "^3.0.0-beta.122",
+    "@pinegrow/nuxt-module": "^3.0.0",
     "@types/node": "^18.16.0",
     "eslint": "^8.39.0",
     "nuxt": "^3.5.0",

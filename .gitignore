@@ -16,12 +16,13 @@ public/workbox-sw*.js*
 
 /*.d.ts
   
-#Pinegrow
+# Pinegrow
 _pgbackup
 _pginfo
-##optional
+
+## optional
 pinegrow.json
-##add any d.ts files that are auto-generated, for eg,
+## add any d.ts files that are auto-generated, for eg,
 # auto-imports.d.ts
 # components.d.ts
 # composables.d.ts

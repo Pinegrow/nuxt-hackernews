@@ -22,6 +22,6 @@ _pginfo
 ##optional
 pinegrow.json
 ##add any d.ts files that are auto-generated, for eg,
-# auto-import.d.ts
+# auto-imports.d.ts
 # components.d.ts
 # composables.d.ts
